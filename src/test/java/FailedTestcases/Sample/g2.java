@@ -7,9 +7,6 @@ public class g2 extends class1{
 		
     	 int [] a =new  int [10];
     	 
-    	 int [] ma;
-    	 
-    	 int aa[];
     	  
 		System.out.println("uuuuuu");
 	}
